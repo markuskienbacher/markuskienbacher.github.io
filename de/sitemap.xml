@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://markuskienbacher.github.io/markuskienbacher/de/categories/</loc>
+    <loc>https://markuskienbacher.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://markuskienbacher.github.io/markuskienbacher/categories/"
+                href="https://markuskienbacher.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://markuskienbacher.github.io/markuskienbacher/de/categories/"
+                href="https://markuskienbacher.github.io/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://markuskienbacher.github.io/markuskienbacher/de/</loc>
+    <loc>https://markuskienbacher.github.io/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://markuskienbacher.github.io/markuskienbacher/"
+                href="https://markuskienbacher.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://markuskienbacher.github.io/markuskienbacher/de/"
+                href="https://markuskienbacher.github.io/de/"
                 />
   </url>
   
   <url>
-    <loc>https://markuskienbacher.github.io/markuskienbacher/de/tags/</loc>
+    <loc>https://markuskienbacher.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://markuskienbacher.github.io/markuskienbacher/tags/"
+                href="https://markuskienbacher.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://markuskienbacher.github.io/markuskienbacher/de/tags/"
+                href="https://markuskienbacher.github.io/de/tags/"
                 />
   </url>
   

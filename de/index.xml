@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>markuskienbacher TITLE Hugo Future Imperfect Slim</title>
-    <link>https://markuskienbacher.github.io/markuskienbacher/de/</link>
+    <link>https://markuskienbacher.github.io/de/</link>
     <description>Recent content on markuskienbacher TITLE Hugo Future Imperfect Slim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://markuskienbacher.github.io/markuskienbacher/de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://markuskienbacher.github.io/de/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
