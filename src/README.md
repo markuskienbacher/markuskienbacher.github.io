@@ -9,6 +9,13 @@ browser öffnen
 http://localhost:1313
 
 
+# erste config:
+
+config.toml
+
+die "seiten:
+im "content" = der Inhalt
+
 # zum deploy dann
 
 cd src
