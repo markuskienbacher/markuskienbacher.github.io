@@ -54,7 +54,7 @@ canonifyURLs = true
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "navbartitle"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
@@ -64,7 +64,7 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
+    header                = "headerinparamsintro"
     paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
     rssIntro              = true
     socialIntro           = true
@@ -94,7 +94,7 @@ canonifyURLs = true
 
   [params.footer]
     # Sets RSS icons to appear on the sidebar with the social media buttons
-    rssFooter           = true
+    rssFooter           = false
     # Sets Social Media icons to appear on the sidebar
     socialFooter        = true
 
@@ -127,7 +127,7 @@ canonifyURLs = true
     weight            = 1
 
   [[menu.main]]
-    name              = "About"
+    name              = "Portrait"
     identifier        = "about"
     url               = "/about/"
     pre               = "<i class='far fa-id-card'></i>"
@@ -163,7 +163,7 @@ canonifyURLs = true
   [Languages.en]
     LanguageCode        = "en"
     LanguageName        = "English"
-    weight              = 1
+    weight              = 2
 
 
 # Sets Social Media icons to appear and link to your account. Value should be your
@@ -194,7 +194,7 @@ canonifyURLs = true
   # Social Networks
   facebook              = "example"
   googleplus            = ""
-  reddit                = "example"
+  reddit                = ""
   quora                 = ""
   youtube               = ""
   vimeo                 = ""
@@ -207,7 +207,7 @@ canonifyURLs = true
   twitter               = "example"
   skype                 = ""
   snapchat              = ""
-  pinterest             = "example"
+  pinterest             = ""
   telegram              = "example"
   vine                  = ""
   googlescholar         = ""
@@ -216,4 +216,4 @@ canonifyURLs = true
   keybase               = "example"
   mastodon              = "example.com/@example"
   # Email
-  email                 = "example"
+  email                 = "markus.kienbacher@gmx.at"
