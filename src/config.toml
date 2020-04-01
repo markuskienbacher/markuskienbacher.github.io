@@ -35,7 +35,8 @@ canonifyURLs = true
   readingTime           = true
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
-  socialShare           = ["twitter", "facebook", "email"]
+  #socialShare           = ["twitter", "facebook", "email"]
+  socialShare           = []
 
   [params.meta]
     # Sets the meta tag description
@@ -58,7 +59,7 @@ canonifyURLs = true
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
-    shareMenu           = true
+    shareMenu           = false
     languageMenu        = false
 
   # These are optional params related to the sidebar. They are recommended, but not
@@ -161,12 +162,12 @@ canonifyURLs = true
 #    pre               = "<i class='fas fa-sitemap'></i>"
 #    weight            = 5
 
-  [[menu.main]]
-    name              = "Kontakt"
-    identifier        = "contact"
-    url               = "/contact/"
-    pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
+#  [[menu.main]]
+#    name              = "Kontakt"
+#    identifier        = "contact"
+#    url               = "/contact/"
+#    pre               = "<i class='far fa-envelope'></i>"
+#    weight            = 6
 
 [Languages]
   # Each language has its own menu.
