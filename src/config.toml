@@ -134,7 +134,7 @@ canonifyURLs = true
     weight            = 2
 
   [[menu.main]]
-    name              = "Blog"
+    name              = "Osteopathie"
     identifier        = "blog"
     url               = "/blog/"
     pre               = "<i class='far fa-newspaper'></i>"

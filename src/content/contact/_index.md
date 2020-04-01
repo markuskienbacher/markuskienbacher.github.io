@@ -1,9 +1,9 @@
 +++
-title = "Contact"
+title = "Kontakt"
 type = "contact"
 netlify = false
-emailservice = "formspree.io/example@email.com"
-contactname = "Your name"
+
+contactname = "Mag. Markus Kienbacher"
 contactemail = "Your Email"
 contactsubject = "Subject"
 contactmessage = "Your Message"
