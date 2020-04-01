@@ -1,6 +1,6 @@
 +++
 title = "Kontakt"
-type = "contact"
+
 
 +++
 
