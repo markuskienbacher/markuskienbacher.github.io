@@ -8,7 +8,8 @@ paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
-disableLanguages        = [""]
+defaultContentLanguage = "de"
+disableLanguages        = ["en"]
 publishDir = "../"
 canonifyURLs = true
 
@@ -34,8 +35,7 @@ canonifyURLs = true
   readingTime           = true
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
-  socialShare           = ["twitter", "facebook", "reddit", "linkedin",
-                          "pinterest", "email"]
+  socialShare           = ["twitter", "facebook", "email"]
 
   [params.meta]
     # Sets the meta tag description
@@ -84,19 +84,19 @@ canonifyURLs = true
       alt                 = "Hugo Future Imperfect Slim"
 
   [params.sidebar]
-    about               = "test"
+    about               = "Markus Kienbacher"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
-    categories          = true
+    categories          = false
     # Sets Categories to sort by number of posts instead of alphabetical
-    categoriesByCount   = true
+    categoriesByCount   = false
 
   [params.footer]
     # Sets RSS icons to appear on the sidebar with the social media buttons
     rssFooter           = false
     # Sets Social Media icons to appear on the sidebar
-    socialFooter        = true
+    socialFooter        = false
 
   # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
   # due to its ease of use. Feel free to check out both and decide which you would
@@ -125,7 +125,7 @@ canonifyURLs = true
     url               = "/"
     pre               = "<i class='fa fa-home'></i>"
     weight            = 1
-
+   
   [[menu.main]]
     name              = "Portrait"
     identifier        = "about"
@@ -137,7 +137,7 @@ canonifyURLs = true
     name              = "Osteopathie"
     identifier        = "osteopathie"
     url               = "/osteopathie/"
-    pre               = "<i class='far fa-newspaper'></i>"
+    pre               = "<i class='far '></i>"
     weight            = 3
 
   [[menu.main]]
@@ -160,10 +160,6 @@ canonifyURLs = true
     LanguageCode        = "de"
     LanguageName        = "Deutsche"
     weight              = 1
-  [Languages.en]
-    LanguageCode        = "en"
-    LanguageName        = "English"
-    weight              = 2
 
 
 # Sets Social Media icons to appear and link to your account. Value should be your
