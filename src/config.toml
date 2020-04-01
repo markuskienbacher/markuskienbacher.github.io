@@ -1,7 +1,7 @@
 baseURL = "https://markuskienbacher.github.io/"
 languageCode = "de-de"
 
-title                   = "markuskienbacher TITLE Hugo Future Imperfect Slim"
+title                   = "Markus Kienbacher"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
