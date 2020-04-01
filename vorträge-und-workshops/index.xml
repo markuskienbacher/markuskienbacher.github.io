@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vorträge und Workshops on Markus Kienbacher</title>
+    <link>https://markuskienbacher.github.io/vortr%C3%A4ge-und-workshops/</link>
+    <description>Recent content in Vorträge und Workshops on Markus Kienbacher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://markuskienbacher.github.io/vortr%C3%A4ge-und-workshops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

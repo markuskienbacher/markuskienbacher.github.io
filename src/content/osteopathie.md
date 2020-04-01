@@ -1,12 +1,9 @@
 +++
 author = "Markus"
-title = "Osteopathie    "
+title = "Osteopathie"
 date = "2019-03-11"
 description = "osteopathie beschreibung im titel"
 images  = ["img/2014/04/pic02.jpg"]
-
-title = "Osteopathie"
-date = "2014-04-09"
 +++
 
 
