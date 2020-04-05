@@ -12,3 +12,6 @@ Bei der Arbeit mit Gruppen im Rahmen von Workshops und Vorträgen macht es mir g
 
 Ursprünglich aus Niederösterreich verschlug mich die Liebe zum Bundesland Tirol und der grandiosen Bergwelt, aber auch des speziellen Flairs von Innsbruck 2014 hierher.
 Ich übe selbst intensiv aus bzw. habe ausgeübt diverse Sportarten wie Klettern (Seil bzw. Bouldern), Laufen (u.a. auch Teilnahme an diversen Volksläufen von 5km bis Halbmarathon- Distanz), Mountainbike (Cross country als auch Downhill), Schi (Freeride, Alpin als auch Touren) und Wildwasserkajak.
+
+[Lebenslauf]{/Lebenslauf}
+[Interview]{/interview}
