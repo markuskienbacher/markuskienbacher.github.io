@@ -108,7 +108,52 @@
   </url>
   
   <url>
+    <loc>https://markuskienbacher.github.io/agbs/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markuskienbacher.github.io/betriebliche-gesundheitsvorsorge/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markuskienbacher.github.io/datenschutzerklaerung/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markuskienbacher.github.io/impressum/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markuskienbacher.github.io/infos-zur-therapie/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markuskienbacher.github.io/interview/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markuskienbacher.github.io/lebenslauf/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://markuskienbacher.github.io/physiotherapie/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markuskienbacher.github.io/therapeutisches-klettern/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markuskienbacher.github.io/trainingsberatung/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,11 +163,16 @@
   </url>
   
   <url>
-    <loc>https://markuskienbacher.github.io/contact/</loc>
+    <loc>https://markuskienbacher.github.io/ueber-mich/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://markuskienbacher.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://markuskienbacher.github.io/contact/</loc>
   </url>
   
 </urlset>
