@@ -11,10 +11,11 @@ generelle Informationen zur Schmerzphysiologie und zur Unterstützung des Körpe
 Beschwerden bei denen Physiotherapie helfen kann sind beispielsweise
 
 Schmerzen am Bewegungsapparat
-Skoliosen
+Skoliosen siehe dazu [Skoliosetherapie](/skoliosetherapie)
 Wiederherstellung nach Verletzungen
 
 
-weiters biete ich auch noch therapeutisches Klettern an (LINK)
+weiters biete ich auch noch [therapeutisches Klettern](/therapeutisches-klettern) an.
+
 
 Für Terminvereinbarungen oder generellen Fragen bezüglich Physiotherapie kontaktieren Sie mich am besten unter 0650/4536498 oder markus.kienbacher@gmx.at
