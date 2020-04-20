@@ -2,6 +2,7 @@
 title = "Physiotherapie"
 date = "2014-04-09"
 +++
+<img src="/img/portraitgross.jpg" width="200">
 Physiotherapie setzt sich für mich aus 3 Säulen zusammen:
 der manuellen Therapie mit meinen Händen am Körper um dort Spannunsgzustände im Gewebe zu beseitigen
 gezielter Übungen für zu Hause um den Therapieerfolg zu sichern und dem Patiuenten die Möglichkeit zu geben aktiv zum Gelingen der Therapie beizutragen
