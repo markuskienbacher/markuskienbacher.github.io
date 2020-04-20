@@ -6,6 +6,8 @@ description = "Guide to emoji usage in Hugo"
 tags = ["emoji"]
 categories = [""]
 images  = ["img/2014/04/pic01.jpg"]
+draft = true 
+
 +++
 
 Emoji can be enabled in a Hugo project in a number of ways.
