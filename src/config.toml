@@ -13,6 +13,9 @@ disableLanguages        = ["en"]
 publishDir = "../"
 canonifyURLs = true
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
   # Add additional section names to mainSections to include posts from
   # those sections on the homepage.
