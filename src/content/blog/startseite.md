@@ -2,7 +2,7 @@
 author = "Markus"
 title = "Willkommen!"
 date = "2019-03-11"
-description = "willkommen auf meiner website"
+description = "Willkommen auf meiner Website"
 tags = []
 categories = []
 images  = ["img/2014/04/pic02.jpg"]
