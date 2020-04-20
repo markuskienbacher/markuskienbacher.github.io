@@ -69,8 +69,8 @@ unsafe= true
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "Mag. Markus Kienbacher"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
-    rssIntro              = true
+    paragraph             = "Osteopathie, Physiotherapie und mehr"
+    rssIntro              = false
     socialIntro           = true
     # You may not want to display a long intro above content in the
     # single column layout used on smaller screens.
@@ -206,7 +206,7 @@ unsafe= true
   #xing                  = ""
   #slideshare            = ""
   # Social Networks
-  facebook              = "https://www.facebook.com/Physiotherapiemarkuskienbacher"
+  facebook              = "Physiotherapiemarkuskienbacher"
   #googleplus            = ""
   #reddit                = ""
   #quora                 = ""
