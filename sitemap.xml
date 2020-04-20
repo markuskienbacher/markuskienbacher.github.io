@@ -33,21 +33,6 @@
   </url>
   
   <url>
-    <loc>https://markuskienbacher.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://markuskienbacher.github.io/blog/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://markuskienbacher.github.io/tags/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://markuskienbacher.github.io/agbs/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
@@ -122,6 +107,10 @@
   
   <url>
     <loc>https://markuskienbacher.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://markuskienbacher.github.io/tags/</loc>
   </url>
   
 </urlset>
