@@ -22,5 +22,3 @@ cd src
 hugo -Fv
 
 # git commit
-
-* LIVE: https://markuskienbacher.github.io/
