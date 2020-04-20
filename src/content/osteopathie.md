@@ -6,7 +6,7 @@ description = "osteopathie beschreibung im titel"
 images  = ["img/2014/04/pic02.jpg"]
 +++
 
-<img src="/img/MarleneKienbacher.JPG" width="48">
+<img src="/img/main/logo.jpg" width="48">
 
 Ich verstehe die Osteopathie als eine ganzheitliche Betrachtungsweise des Menschens
 
