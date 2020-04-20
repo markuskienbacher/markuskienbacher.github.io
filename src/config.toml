@@ -10,6 +10,8 @@ googleAnalytics         = ""
 pluralizeListTitles     = false
 defaultContentLanguage = "de"
 disableLanguages        = ["en"]
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
 publishDir = "../"
 canonifyURLs = true
 
