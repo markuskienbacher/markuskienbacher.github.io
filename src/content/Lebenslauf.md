@@ -2,6 +2,36 @@
 title = "Lebenslauf"
 date = "2014-04-09"
 +++
+# Lebenslauf
+
+<div class="table">
+  <div class="table-row">
+    <div class="table-cell">2006-2013</div>
+    <div class="table-cell">Psychologiestudium Universität Wien</div>
+  </div>
+  <div class="table-row">
+    <div class="table-cell">2013-2014</div>
+    <div class="table-cell">Ausbildung zur Klinischen- und Gesundheitspsychologin</div>
+  </div>
+<div class="table-row">
+    <div class="table-cell">2013-2020</div>
+    <div class="table-cell">Psychosoziale Trainingsleiterin PSZ Schiltern GmbH</div>
+  </div>
+  <div class="table-row">
+    <div class="table-cell">seit 2020</div>
+    <div class="table-cell">Klinische und Gesundheitspsychologin PSZ Schiltern GmbH</div>
+  </div>
+</div>
+
+# Fortbildungen
+
+* Psychologische Behandlung von werdenden Müttern mit problematischen Schwangerschaftsverläufen
+* Lehrgang Skills-Training des ÖDBT
+* Bindung – Wiege der Persönlichkeit
+* Gruppentraining sozialer Kompetenzen nach Hinsch und Pfingsten
+* Selbstbild und Selbstwert – Tools für die psychologische Praxis
+
+
 Ausbildung
 
 
