@@ -172,6 +172,14 @@ unsafe= true
     url               = "/trainingsberatung/"
     pre               = "<i class='far '></i>"
     weight            = 3
+
+ [[menu.main]]
+    name              = "Kontakt"
+    identifier        = "about"
+    url               = "/about/"
+    pre               = "<i class='far '></i>"
+    weight            = 3
+    
     
 #  [[menu.main]]
 #    name              = "Categories"
