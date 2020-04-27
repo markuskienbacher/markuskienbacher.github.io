@@ -133,9 +133,9 @@ unsafe= true
     weight            = 1
    
   [[menu.main]]
-    name              = "Portrait"
-    identifier        = "about"
-    url               = "/about/"
+    name              = "Über mich"
+    identifier        = "ueber mich"
+    url               = "/ueber mich/"
     pre               = "<i class='far fa-id-card'></i>"
     weight            = 2
 
@@ -160,6 +160,19 @@ unsafe= true
     pre               = "<i class='far '></i>"
     weight            = 3
 
+ [[menu.main]]
+    name              = "Betriebliche Gesundheitsvorsorge"
+    identifier        = "betriebliche gesundheistvorsorge"
+    url               = "/betriebliche gesundheitsvorsorge/"
+    pre               = "<i class='far '></i>"
+    weight            = 3
+     [[menu.main]]
+    name              = "Trainingsberatung"
+    identifier        = "trainingsberatung"
+    url               = "/trainingsberatung/"
+    pre               = "<i class='far '></i>"
+    weight            = 3
+    
 #  [[menu.main]]
 #    name              = "Categories"
 #    identifier        = "categories"
