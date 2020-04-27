@@ -21,5 +21,6 @@ Wiederherstellung nach Verletzungen
 
 weiters biete ich auch noch [therapeutisches Klettern](/therapeutisches-klettern) an.
 
+[Informationen zum Therapieablauf](/infos zur therapie)
 
 Für Terminvereinbarungen oder generellen Fragen bezüglich Physiotherapie kontaktieren Sie mich am besten unter 0650/4536498 oder markus.kienbacher@gmx.at
