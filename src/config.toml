@@ -60,7 +60,7 @@ unsafe= true
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "navbartitle"
+    navbarTitle         = "Bereiche"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
