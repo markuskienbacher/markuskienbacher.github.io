@@ -25,6 +25,8 @@ Sodbrennen
 Um Verklebungen nach einer Entzündung eines Organs zu lösen (z.b. Wiederkehrende Blasenentzündung)
 generell Schmerzen am Bewegungsapparat
 
-hier auch noch genaueres über Osteopathie (LINK)
+hier auch noch genaueres über [meine Sicht zur Osteopathie] (/osteopathie meine sicht)
+
+[Informationen zum Therapieablauf](/infos zur therapie)
 
 Für Terminvereinbarungen oder generellen Fragen bezüglich Ostopathie kontaktieren Sie mich am besten unter 0650/4536498 oder markus.kienbacher@gmx.at
