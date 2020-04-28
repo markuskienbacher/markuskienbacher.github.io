@@ -2,7 +2,7 @@
 author = "Markus"
 title = "Osteopathie"
 date = "2019-03-11"
-description = "osteopathie beschreibung im titel"
+description = ""
 images  = ["img/portraitgross.jpg"]
 featured = "img/portraitgross.jpg"
 +++
