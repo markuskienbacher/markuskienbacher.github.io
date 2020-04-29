@@ -3,7 +3,7 @@ title = "Vorträge und Workshops"
 date = "2014-04-09"
 +++
 
-<img src="/img/votraege und workshops.jpg" >
+<img src="/img/vortraege und workshops.jpg" >
 
 
 Seit 2010 bin ich in der Erwachsenenbildung als Refernt tätig am verschiedensten Institutionen. Auch während meiner Studienzeit habe ich schon diverse Sportkurse gehalten.  Die Themen meiner Referententätigkeit sind breit gestreut. Ich unterrichte in der Massageausbildung, der Physiotherapieausbildung, der Pflegeassistenzausbildung, der Behindertenassistenzausbildung und in der Ausbildung für Instruktoren in verschiedenen Sportarten.
