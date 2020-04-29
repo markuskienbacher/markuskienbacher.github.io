@@ -2,6 +2,10 @@
 title = "Lebenslauf"
 date = "2014-04-09"
 +++
+
+<img src="/img/lebenslauf.jpg" >
+
+
 # Berufsweg
 
 <div class="table">
