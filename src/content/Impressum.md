@@ -2,7 +2,7 @@
 title = "Impressum"
 date = "2014-04-09"
 +++
-NImpressum
+Impressum
 Betreiber der Website
 Mag. Markus Kienbacher
 Amrasserstrasse 76/A3
