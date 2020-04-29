@@ -15,3 +15,5 @@ Bitte nehmen Sie ein großes Badetuch oder ein Bettlaken für die Therapieliege 
 Ich bin Wahltherapeut, dass heisst Sie bekommen für Physiotherapie einen Teil refundiert (Höhe abhängig von der jeweiligen Krankenkasse). Eine Zusatzversicherung deckt oft die restlichen Kosten (fragen Sie dazu bei dieser nach). Die Osteopathie wird im Moment nur von eventuellen Zusatzversicherungen abgedeckt.
 
 Beachten Sie auch noch meine [AGBs](/agbs)
+
+Aus aktuellen Anlass bitte lesen Sie auch die [Informationen](/aktuelleinfos covid) bezüglich Therapie und Covid 19
