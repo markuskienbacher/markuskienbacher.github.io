@@ -2,23 +2,25 @@
 title = "Lebenslauf"
 date = "2014-04-09"
 +++
-# Lebenslauf
-</div>
+# Berufsweg
+
+<div class="table">
   <div class="table-row">
     <div class="table-cell">seit 2011</div>
     <div class="table-cell">selbstständiger Physiotherapeut </div>
   </div>
-</div>
-<div class="table-row">
+ <div class="table-row">
     <div class="table-cell">seit 2013</div>
     <div class="table-cell">diverse Lehrtätigkeit (u.a. SOB Tirol, Eurak Hall, Vitalakademie, BSPA, AUVA)</div>
   </div>
-  </div>
-<div class="table-row">
+ <div class="table-row">
     <div class="table-cell">2010-2012</div>
     <div class="table-cell">Physiotherapeut im Nuhr Medical Center bzw. Kurzentrum Bad Traunstein</div>
   </div>
+</div>
+
 # Ausbildungen
+
 <div class="table">
   <div class="table-row">
     <div class="table-cell">2012-2017</div>
@@ -28,10 +30,9 @@ date = "2014-04-09"
     <div class="table-cell">2007-2010</div>
     <div class="table-cell">Physiotherapieausbildung am IMC FH Krems</div>
   </div>
-<div class="table-row">
+  <div class="table-row">
     <div class="table-cell">2007-2010</div>
     <div class="table-cell">Magister Studium Sportwissenschaften an der Universität Wien
-</div>
   </div>
   <div class="table-row">
     <div class="table-cell">2004-2007</div>
