@@ -3,10 +3,13 @@ author = "Markus"
 title = "Osteopathie"
 date = "2019-03-11"
 description = ""
-images  = ["img/portraitgross.jpg"]
-featured = "img/portraitgross.jpg"
+
 +++
 
+
+<img src="/img/osteopathie 1.jpg" >
+<img src="/img/osteopathie 2.jpg" >
+<img src="/img/osteopathie 3.jpg" >
 
 
 Ich verstehe die Osteopathie als eine ganzheitliche Betrachtungsweise des Menschens
