@@ -44,8 +44,8 @@ Beschwerden bei denen Osteopathie helfen kann sind z.B.
 
 * generell Schmerzen am Bewegungsapparat
 
-hier auch noch genaueres über meine Vostellungen zur [Osteopathie] (/osteopathiemeinesicht)
+hier auch noch genaueres über meine Vostellungen zur [Osteopathie](/osteopathiemeinesicht)
 
-Informationen zum[Therapieablauf](/infoszurtherapie)
+Informationen zum [Therapieablauf](/infoszurtherapie)
 
 Für Terminvereinbarungen oder generellen Fragen bezüglich Ostopathie kontaktieren Sie mich am besten unter 0650/4536498 oder markus.kienbacher@gmx.at
