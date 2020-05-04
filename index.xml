@@ -6,10 +6,39 @@
     <description>Recent content on Markus Kienbacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://markuskienbacher.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Das Immunsystem stärken aus sportwissenschaftlicher bzw. osteopathischer Sicht </title>
+      <link>https://markuskienbacher.github.io/blog/immunsystemstaerken/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://markuskienbacher.github.io/blog/immunsystemstaerken/</guid>
+      <description>Ein großer Punkt ist natürlich ein gesunder Lebensstil. Darunter verstehe ich regelmäßige Bewegung an der frischen Luft (nicht in einem zu intensiven Bereich bzw. wenn dann danach ausreichende Regenerationspausen) , erholsamer und ausreichender Schlaf, Stress so gut es geht meiden bzw. falls nicht möglich mit Entspannungstechniken gegensteuern und eine gesunde Ernährung (möglichst wenig industriell vor-verarbeitet, saisonal und regional). Osteopathisch kann man prophylaktisch den Körper unterstützen, indem man vorhandene Spannungszustände im Gewebe löst, die beispielsweise die Brustkorbbewegung und somit die Atmung bzw.</description>
+    </item>
+    
+    <item>
+      <title>Aktuelles aufgrund von Covid-19</title>
+      <link>https://markuskienbacher.github.io/blog/aktuelleinfoscovid/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://markuskienbacher.github.io/blog/aktuelleinfoscovid/</guid>
+      <description>Liebe/r PatientIn!
+Ich versuche mein Bestes und halte mich an alle erhältlichen Empfehlungen für den Patientenumgang. Trotzdem muss Ihnen auch klar sein dass es keine 100 % Sicherheit im Rahmen von Corona gibt. Die Therapie wird so ablaufen dass ich eine spezielle MAske trage und wenn ich Sie mit meinen Händen behandle eine Schürze und Handschuhe. Bitte kommen Sie nur zur Therapie, wenn Sie sich absolut gesund fühlen und in den letzten 14 Tagen keinen Kontakt zu einem Erkrankten gehabt haben.</description>
+    </item>
+    
+    <item>
+      <title>Aktuelles aufgrund von Covid-19</title>
+      <link>https://markuskienbacher.github.io/aktuelleinfoscovid/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://markuskienbacher.github.io/aktuelleinfoscovid/</guid>
+      <description>Liebe/r PatientIn!
+Ich versuche mein Bestes und halte mich an alle erhältlichen Empfehlungen für den Patientenumgang. Trotzdem muss Ihnen auch klar sein dass es keine 100 % Sicherheit im Rahmen von Corona gibt. Die Therapie wird so ablaufen dass ich eine spezielle MAske trage und wenn ich Sie mit meinen Händen behandle eine Schürze und Handschuhe. Bitte kommen Sie nur zur Therapie, wenn Sie sich absolut gesund fühlen und in den letzten 14 Tagen keinen Kontakt zu einem Erkrankten gehabt haben.</description>
+    </item>
     
     <item>
       <title>Osteopathie</title>
@@ -45,13 +74,12 @@ Weiters kann es sein, dass die Ursache weit entfernt vom Schmerzort ist und desh
     </item>
     
     <item>
-      <title>Aktuelles aufgrund von Covid-19</title>
-      <link>https://markuskienbacher.github.io/aktuelleinfoscovid/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Markdown Syntax Guide</title>
+      <link>https://markuskienbacher.github.io/blog/markdown-syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://markuskienbacher.github.io/aktuelleinfoscovid/</guid>
-      <description>Liebe/r PatientIn!
-Ich versuche mein Bestes und halte mich an alle erhältlichen Empfehlungen für den Patientenumgang. Trotzdem muss Ihnen auch klar sein dass es keine 100 % Sicherheit im Rahmen von Corona gibt. Die Therapie wird so ablaufen dass ich eine spezielle MAske trage und wenn ich Sie mit meinen Händen behandle eine Schürze und Handschuhe. Bitte kommen Sie nur zur Therapie, wenn Sie sich absolut gesund fühlen und in den letzten 14 Tagen keinen Kontakt zu einem Erkrankten gehabt haben.</description>
+      <guid>https://markuskienbacher.github.io/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
