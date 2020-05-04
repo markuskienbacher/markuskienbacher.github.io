@@ -1,7 +1,7 @@
 # markuskienbacher
 
 # im terminal:
-in das src verzeichnis wechseln
+in das src verzeichnis wechseln (cd src)
 dort dann ausfürhen:
 > hugo server
 
