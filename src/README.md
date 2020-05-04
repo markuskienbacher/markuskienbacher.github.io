@@ -9,8 +9,9 @@ browser öffnen
 http://localhost:1313
 
 
-# erste config:
+# config:
 
+nur den src aendern!!
 config.toml
 
 die "seiten:
