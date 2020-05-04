@@ -151,34 +151,34 @@ unsafe= true
     identifier        = "physiotherapie"
     url               = "/physiotherapie/"
     pre               = "<i class='far '></i>"
-    weight            = 3
+    weight            = 4
   
   [[menu.main]]
     name              = "Vortraege & Workshops"
     identifier        = "vortraegeworkshops"
     url               = "/vortraegeworkshops/"
     pre               = "<i class='far '></i>"
-    weight            = 3
+    weight            = 5
 
  [[menu.main]]
     name              = "Betriebliche Gesundheitsvorsorge"
     identifier        = "betriebliche gesundheistvorsorge"
     url               = "/betriebliche gesundheitsvorsorge/"
     pre               = "<i class='far '></i>"
-    weight            = 3
+    weight            = 6
      [[menu.main]]
     name              = "Trainingsberatung"
     identifier        = "trainingsberatung"
     url               = "/trainingsberatung/"
     pre               = "<i class='far '></i>"
-    weight            = 3
+    weight            = 7
 
  [[menu.main]]
     name              = "Kontakt"
     identifier        = "about"
     url               = "/about/"
     pre               = "<i class='far '></i>"
-    weight            = 3
+    weight            = 8
     
     
 #  [[menu.main]]

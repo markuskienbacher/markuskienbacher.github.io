@@ -16,3 +16,5 @@ Ich übe selbst intensiv aus bzw. habe ausgeübt diverse Sportarten wie Klettern
 [Lebenslauf](/lebenslauf)
 
 [Interview](/interview)
+
+[Kontakt](/about)

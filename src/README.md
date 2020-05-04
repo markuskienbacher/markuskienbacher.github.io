@@ -25,7 +25,7 @@ im "content" = der Inhalt
 cd src
 hugo -Fv
 ```
-# git einrichten neuer arbeitsplatz
+# git einrichten neuer arbeitsplatz /neuer PC
 
 ```
 git clone https://github.com/markuskienbacher/markuskienbacher.github.io.git --recurse-submodules

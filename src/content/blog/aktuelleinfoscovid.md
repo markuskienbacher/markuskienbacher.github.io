@@ -1,6 +1,6 @@
 +++
 title = "Aktuelles aufgrund von Covid-19"
-date = "2020-04-05"
+date = "2020-04-20"
 +++
 
 Liebe/r PatientIn!
