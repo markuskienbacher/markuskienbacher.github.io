@@ -8,4 +8,4 @@ Ich habe über 10 Jahre intensiv den Klettersport ausgeübt und auch jahrelang a
 
 Therapeutisches Klettern ist eine Möglichkeit für ein großes Spektrum an Beschwerden. Anhand der Kletterwand und der Griffe kann man einen neuen Aspekt in Rehabilitation bzw. das Training hineinbekommen.
 
-Gut bewährt hat sich auch dass man therapeutisches Klettern mit manueller Therapie in der Praxis kombiniert. 
+Gut bewährt hat sich auch, dass man therapeutisches Klettern mit manueller Therapie in der Praxis kombiniert. 
