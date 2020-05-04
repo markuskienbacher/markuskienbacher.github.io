@@ -16,4 +16,4 @@ Ich bin Wahltherapeut, dass heisst Sie bekommen für Physiotherapie einen Teil r
 
 Beachten Sie auch noch meine [AGBs](/agbs)
 
-Aus aktuellen Anlass bitte lesen Sie auch die [Informationen](/aktuelleinfos covid) bezüglich Therapie und Covid 19
+Aus aktuellen Anlass bitte lesen Sie auch die [Informationen](/aktuelleinfoscovid) bezüglich Therapie und Covid 19
