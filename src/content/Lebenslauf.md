@@ -47,11 +47,11 @@ date = "2014-04-09"
 
 # Fortbildungen
 
-* Ausbildung zum Schroth Therapeut (Skoliose) in Bad Sobernheim 
+* Ausbildung zum Schroth Therapeut (Skoliose): Asklepios Katharina- Schroth- Klinik Bad Sobernheim 
 *  Kurs manuelle Therapie nach Mulligan: FBA (Fortbildungsakademie für therapeutische Berufe) Linz
 * Kurs Lokale Stabilisatoren: FBA  Linz 
 * Kurs Fasziendistorsion nach Typaldos: Physiozentrum Wien bzw. Physioskills Salzburg (Modul 1-3) 
-* Rückenschule nach Albrecht: ASKÖ Niederösterreich
+* Rückenschule nach Albrecht: Arbeitsgemeinschaft für Sport und Körperkultur in Österreich  
 * Therapiekletterkurs: Institut für therapeutisches Klettern 
 * Instruktor Kajak: Bundessportakademie
 * Übungsleiter Sportklettern: Naturfreunde Salzburg 
