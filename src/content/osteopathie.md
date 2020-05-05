@@ -39,7 +39,7 @@ Beschwerden bei denen Osteopathie helfen kann sind z.B.
 
 * Sodbrennen
 
-* Um Verklebungen nach einer Entzündung eines Organs zu lösen (z.B. Wiederkehrende Blasenentzündung)
+* Um Verklebungen nach einer Entzündung eines Organs zu lösen (z.B. wiederkehrende Blasenentzündung)
 
 * generell Schmerzen am Bewegungsapparat
 
