@@ -67,7 +67,9 @@ Ein paar Beispiele  für Beschwerden, die im Normalfall gut osteopathisch zu beh
 Ansonsten natürlich klassisch sämtliche Beschwerden am Bewegungsapparat.
 
 
-Das macht auch die Arbeit eines/r OsteopathIn so spannend. Wenn jemand mit einem Problem zu mir kommt arbeite ich wie ein Detektiv: **ich mache mich auf eine spannende Suche durch den Körper**
+Das macht auch die Arbeit eines/r OsteopathIn so spannend. Wenn jemand mit einem Problem zu mir kommt arbeite ich wie ein Detektiv: 
+**ich mache mich auf eine spannende Suche durch den Körper**
+
 das selbe Problem bei drei verschiedenen Menschen hat oft drei verschiedene Ursachen
 
 Dann ist es spannend gemeinsam mit dem Patienten/ der Patientin individuell eine Therapie zu erarbeiten.
