@@ -24,7 +24,7 @@ Beschwerden bei denen Physiotherapie helfen kann sind beispielsweise
 
 * Schmerzen am Bewegungsapparat
 
-* Skoliosen siehe dazu [Skoliosetherapie](/skoliosetherapie)
+* Skoliosen- siehe dazu [Skoliosetherapie](/skoliosetherapie)
 
 * Wiederherstellung nach Verletzungen
 
