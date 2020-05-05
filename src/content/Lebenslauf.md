@@ -15,7 +15,7 @@ date = "2014-04-09"
   </div>
  <div class="table-row">
     <div class="table-cell">seit 2013</div>
-    <div class="table-cell">diverse Lehrtätigkeit (u.a. SOB Tirol, Eurak Hall, Vitalakademie, BSPA, AUVA)</div>
+    <div class="table-cell">diverse Lehrtätigkeit (u.a. Schule für Sozialbetreuungsberufe, Europaakademie für Physiotherapie, Vitalakademie, Bundessportakademie, Allgemeine Unfallversicherungsanstalt)</div>
   </div>
  <div class="table-row">
     <div class="table-cell">2010-2012</div>
@@ -32,7 +32,7 @@ date = "2014-04-09"
   </div>
   <div class="table-row">
     <div class="table-cell">2007-2010</div>
-    <div class="table-cell">Physiotherapieausbildung am IMC FH Krems</div>
+    <div class="table-cell">Physiotherapieausbildung an der Fachhochschule Krems</div>
   </div>
   <div class="table-row">
     <div class="table-cell">2007-2010</div>
@@ -51,8 +51,8 @@ date = "2014-04-09"
 *  Kurs manuelle Therapie nach Mulligan: FBA (Fortbildungsakademie für therapeutische Berufe) Linz
 * Kurs Lokale Stabilisatoren: FBA  Linz 
 * Kurs Fasziendistorsion nach Typaldos: Physiozentrum Wien bzw. Physioskills Salzburg (Modul 1-3) 
-* Rückenschule nach Albrecht
-* Therapiekletterkurs am Institut für therapeutisches Klettern 
-* Instruktor Kajak 
-* Übungsleiter Sportklettern 
-* Nordic Walking Instruktor
+* Rückenschule nach Albrecht: ASKÖ Niederösterreich
+* Therapiekletterkurs: Institut für therapeutisches Klettern 
+* Instruktor Kajak: Bundessportakademie
+* Übungsleiter Sportklettern: Naturfreunde Salzburg 
+* Nordic Walking Instruktor: Universität Wien
