@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Markus Kienbacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://markuskienbacher.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Willkommen!</title>
+      <link>https://markuskienbacher.github.io/blog/startseite/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://markuskienbacher.github.io/blog/startseite/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Das Immunsystem stärken aus sportwissenschaftlicher bzw. osteopathischer Sicht </title>
@@ -20,15 +29,6 @@
       <description>Aus aktuellem Anlass aufgrund von Covid 19 fragen sich viele Menschen wie man sein Immunsystem stärken kann.
 Ein wichtiger Punkt ist natürlich ein gesunder Lebensstil. Darunter verstehe ich
  regelmäßige Bewegung an der frischen Luft (nicht in einem zu intensiven Bereich bzw. wenn dann danach ausreichende Regenerationspausen) erholsamer und ausreichend Schlaf, Stress so gut es geht meiden bzw. falls nicht möglich mit Entspannungstechniken gegensteuern eine gesunde Ernährung (möglichst saisonal und regional, Verzicht auf industriell vorverarbeitete Lebensmittel).</description>
-    </item>
-    
-    <item>
-      <title>Willkommen!</title>
-      <link>https://markuskienbacher.github.io/blog/startseite/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://markuskienbacher.github.io/blog/startseite/</guid>
-      <description></description>
     </item>
     
     <item>

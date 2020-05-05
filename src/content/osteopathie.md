@@ -24,6 +24,7 @@ mir ist es auch wichtig, dass alle 3 Bereiche der Osteopathie:
 
  gleichwertig zum Einsatz kommen - je nachdem was ich in meiner Befundung erkenne natürlich
 
+
 Weiters kann es sein, dass die Ursache weit entfernt vom Schmerzort ist und deshalb dort die Behandlung beginnt
 
 Beschwerden bei denen Osteopathie helfen kann sind z.B.
