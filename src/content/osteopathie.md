@@ -6,12 +6,11 @@ description = ""
 
 +++
 
+<img src="/img/osteopathie 3.jpg" >
 
 <img src="/img/osteopathie 1.jpg" >
 
 <img src="/img/osteopathie 2.jpg" >
-
-<img src="/img/osteopathie 3.jpg" >
 
 
 Ich verstehe die Osteopathie als eine ganzheitliche Betrachtungsweise des Menschens
