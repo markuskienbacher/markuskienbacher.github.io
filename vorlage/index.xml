@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vorlage on Markus Kienbacher</title>
-    <link>https://markuskienbacher.github.io/vorlage/</link>
+    <link>https://markuskienbacher.at/vorlage/</link>
     <description>Recent content in Vorlage on Markus Kienbacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://markuskienbacher.github.io/vorlage/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://markuskienbacher.at/vorlage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Osteopathie</title>
-      <link>https://markuskienbacher.github.io/vorlage/markdown-syntax/</link>
+      <link>https://markuskienbacher.at/vorlage/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://markuskienbacher.github.io/vorlage/markdown-syntax/</guid>
+      <guid>https://markuskienbacher.at/vorlage/markdown-syntax/</guid>
       <description>&lt;p&gt;Ich verstehe die Osteopathie als eine ganzheitliche Betrachtungsweise des Menschens&lt;/p&gt;</description>
     </item>
     

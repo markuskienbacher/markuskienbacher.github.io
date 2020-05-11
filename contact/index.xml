@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kontakt on Markus Kienbacher</title>
-    <link>https://markuskienbacher.github.io/contact/</link>
+    <link>https://markuskienbacher.at/contact/</link>
     <description>Recent content in Kontakt on Markus Kienbacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://markuskienbacher.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://markuskienbacher.at/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
