@@ -43,14 +43,5 @@ Die Therapie wird so ablaufen, dass ich eine spezielle Maske trage und wenn ich 
 Wichtig: Bitte kommen Sie nur zur Therapie, wenn Sie sich absolut gesund fühlen und in den letzten 14 Tagen keinen Kontakt zu einem Erkrankten gehabt haben!</description>
     </item>
     
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://markuskienbacher.at/blog/markdown-syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://markuskienbacher.at/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
