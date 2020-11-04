@@ -32,4 +32,4 @@ Die Osteopathie wird im Moment nur von eventuellen Zusatzversicherungen abgedeck
 
 Beachten Sie auch noch meine [AGBs](/agbs)
 
-Aus aktuellen Anlass bitte lesen Sie auch die [Informationen](/aktuelleinfoscovid) bezüglich Therapie und Covid 19
+Aus aktuellen Anlass bitte lesen Sie auch die [Informationen](/blog/aktuelleinfoscovid) bezüglich Therapie und Covid 19
