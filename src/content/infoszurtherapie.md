@@ -3,9 +3,9 @@ title = "Infos zur Therapie"
 date = "2014-04-09"
 +++
 
-<img src="/img/infoszurtherapie1.jpg" >
+<img src="/img/infoszurtherapie1.webp" >
 
-<img src="/img/infoszurtherapie2.jpg" >
+<img src="/img/infoszurtherapie2.webp" >
 
 
 Bitte kommen Sie rechtzeitig vor Therapiebeginn in die Praxis. Die Therapie startet pünktlich.

@@ -1,6 +1,6 @@
 # markuskienbacher
 
-# im terminal:
+# im terminal: terminal starten von desktop leiste unten
 in das src verzeichnis wechseln
 ```
 cd src
@@ -22,11 +22,35 @@ im "content" = der Inhalt
 
 # zum deploy dann
 ```
-cd src
+
+cd ~/Dokumente/website2020/markuskienbacher.github.io/src
+
 hugo -Fv
+
+das ist der website generator
 ```
+
+damit es auf website ist
+
+wieder vs code aufrufen
+
+source control (baum klicken) 
+änderungen benennen
+
+checkbox (hackerl klicken)- änderungen abwarten 
+
+und dann links unten neben master auf Kreissymbol
+
+
 # git einrichten neuer arbeitsplatz /neuer PC
 
 ```
 git clone https://github.com/markuskienbacher/markuskienbacher.github.io.git --recurse-submodules
 ```
+für bilder
+
+bilder kopieren
+
+in src static images 
+open containing folder
+reinkopieren
