@@ -3,7 +3,7 @@ title = "Lebenslauf"
 date = "2014-04-09"
 +++
 
-<img src="/img/lebenslauf.jpg" >
+<img src="/img/lebenslauf.webp" >
 
 
 # Berufsweg

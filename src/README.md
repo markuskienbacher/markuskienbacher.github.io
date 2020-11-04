@@ -1,3 +1,21 @@
+
+
+immer bei oeffen code !!!
+
+kreissymbol anklicken damit es synchronisiert ist falls josy was geändert hat
+
+
+# config:
+
+nur den src aendern!!
+config.toml
+
+die "seiten:
+im "content" = der Inhalt
+
+
+zum ausprobieren von änderungen ohne dass es auf website ist
+
 # markuskienbacher
 
 # im terminal: terminal starten von desktop leiste unten
@@ -10,15 +28,6 @@ hugo server
 
 browser öffnen
 http://localhost:1313
-
-
-# config:
-
-nur den src aendern!!
-config.toml
-
-die "seiten:
-im "content" = der Inhalt
 
 # zum deploy dann
 ```
@@ -48,6 +57,8 @@ und dann links unten neben master auf Kreissymbol
 git clone https://github.com/markuskienbacher/markuskienbacher.github.io.git --recurse-submodules
 ```
 für bilder
+
+
 
 bilder kopieren
 

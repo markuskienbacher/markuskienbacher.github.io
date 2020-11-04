@@ -3,7 +3,7 @@ title = "Infos zur Therapie"
 date = "2014-04-09"
 +++
 
-<img src="/img/infoszurtherapie1.webp" >
+<img src="/img/infoszurtherapie.webp" >
 
 <img src="/img/infoszurtherapie2.webp" >
 

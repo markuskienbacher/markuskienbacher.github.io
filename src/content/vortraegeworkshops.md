@@ -3,7 +3,7 @@ title = "Vorträge und Workshops"
 date = "2014-04-09"
 +++
 
-<img src="/img/vortraege und workshops.jpg" >
+<img src="/img/vortrargeundworkshops.webp" >
 
 
 Seit 2010 bin ich in der Erwachsenenbildung als Referent an verschiedensten Institutionen. Auch während meiner Studienzeit habe ich schon diverse Sportkurse gehalten (seit 2006). 

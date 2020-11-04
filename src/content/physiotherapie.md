@@ -4,13 +4,13 @@ date = "2014-04-09"
 +++
 
 
-<img src="/img/physiotherapie 1.jpg" >
+<img src="/img/physiotherapie1.webp" >
 
-<img src="/img/physiotherapie 2.jpg" >
+<img src="/img/physiotherapie2.webp" >
 
-<img src="/img/physiotherapie 3.jpg" >
+<img src="/img/physiotherapie3.webp" >
 
-<img src="/img/physiotherapie 4.jpg" >
+<img src="/img/physiotherapie4.webp" >
 
 Physiotherapie setzt sich für mich aus 3 Säulen zusammen:
 * der **manuellen Therapie** mit meinen Händen am Körper um dort Spannungszustände im Gewebe zu beseitigen

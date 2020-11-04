@@ -3,7 +3,7 @@ title = "Skoliosetherapie"
 date = "2014-04-09"
 +++
 
-<img src="/img/skoliosetherapie.jpg" >
+<img src="/img/skoliosetherapie.webp" >
 
 
 Skoliose ist eine seitliche Verkrümmung der Wirbelsäule.
