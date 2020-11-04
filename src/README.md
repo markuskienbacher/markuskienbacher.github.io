@@ -1,6 +1,6 @@
 
 
-immer bei oeffen code !!!
+immer bei oeffnen code !!!
 
 kreissymbol anklicken damit es synchronisiert ist falls josy was geändert hat
 
