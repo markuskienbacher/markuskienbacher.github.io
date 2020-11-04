@@ -8,7 +8,7 @@ Liebe/r PatientIn!
 Ich versuche mein Bestes und  halte mich an alle erhältlichen Empfehlungen für den Patientenumgang. 
 Trotzdem muss Ihnen auch klar sein, dass es keine 100 % Sicherheit im Rahmen von Covid 19 gibt.
 
-Die Therapie wird so ablaufen, dass ich eine spezielle Maske trage und wenn ich Sie manuell behandle eine Schürze und gegebenfalls Handschuhe.
+Die Therapie wird so ablaufen, dass ich eine spezielle Maske trage 
 
 Wichtig: Bitte kommen Sie nur zur Therapie, wenn Sie sich absolut gesund fühlen und in den letzten 14 Tagen keinen Kontakt zu einem Erkrankten gehabt haben!!!
 
