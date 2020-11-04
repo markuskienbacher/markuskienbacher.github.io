@@ -4,3 +4,7 @@
   is an official part of the theme (ex. Pull Requests) should be included in main.css
   and follow the formatting and style given.
 */
+a {
+  border-bottom: dotted 3px rgba(0, 180, 180, 0.65);
+  font-weight: 700;
+}
