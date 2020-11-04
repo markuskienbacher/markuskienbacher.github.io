@@ -46,7 +46,9 @@ wieder vs code aufrufen
 source control (baum klicken) 
 änderungen benennen
 
-checkbox (hackerl klicken) bei markuskienbacher- änderungen abwarten 
+checkbox (hackerl klicken) bei markuskienbacher- 
+save all and comitt bestätigen
+änderungen abwarten 
 
 und dann links unten neben master auf Kreissymbol
 
