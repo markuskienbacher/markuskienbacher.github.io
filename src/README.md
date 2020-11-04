@@ -46,9 +46,12 @@ wieder vs code aufrufen
 source control (baum klicken) 
 änderungen benennen
 
-checkbox (hackerl klicken)- änderungen abwarten 
+checkbox (hackerl klicken) bei markuskienbacher- änderungen abwarten 
 
 und dann links unten neben master auf Kreissymbol
+
+jetzt müsste es auf website sein
+
 
 
 # git einrichten neuer arbeitsplatz /neuer PC

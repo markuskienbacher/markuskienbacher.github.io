@@ -15,6 +15,6 @@ Therapie aufgenommen werden. Mit Unterfertigung der vorliegenden AGBs erklären 
 einverstanden. Dieses Einverständnis kann jederzeit widerrufen werden. Das
 Bildmaterial wird weder veröffentlicht noch an Dritte weitergegeben und ausschließlich im Sinne des derzeit geltenden Datenschutzrechts verwendet und aufbewahrt.
 
-4. Mit Ihrer Unterschrift erlauben Sie die Verwendung Ihrer Daten zur Kontaktaufnahme und Vereinbarung von Terminen über Telefon, SMS, Mail und sozialen Medien. 
+4. Mit Ihrer Unterschrift erlauben Sie die Verwendung Ihrer Daten zur Kontaktaufnahme und Vereinbarung von Terminen. 
 
 5. Bitte nehmen Sie außerdem zur Kenntnis, dass vereinbarte Termine mindestens 24 Stunden vor Therapiebeginn und ausschließlich telefonisch (Nachricht auf der Mobilbox bzw. SMS) und nicht per E-Mail! stornierbar sind. Bei nicht fristgerechter Absage wird der gesamte Therapiepreis verrechnet.
