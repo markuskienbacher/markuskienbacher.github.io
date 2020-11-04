@@ -6,10 +6,22 @@
     <description>Recent content in Blog on Markus Kienbacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://markuskienbacher.at/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aktuelles aufgrund von Covid-19</title>
+      <link>https://markuskienbacher.at/blog/aktuelleinfoscovid/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://markuskienbacher.at/blog/aktuelleinfoscovid/</guid>
+      <description>Liebe/r PatientIn!
+Ich versuche mein Bestes und halte mich an alle erhältlichen Empfehlungen für den Patientenumgang. Trotzdem muss Ihnen auch klar sein, dass es keine 100 % Sicherheit im Rahmen von Covid 19 gibt.
+Die Therapie wird so ablaufen, dass ich eine spezielle Maske trage und wenn ich Sie manuell behandle eine Schürze und gegebenfalls Handschuhe.
+Wichtig: Bitte kommen Sie nur zur Therapie, wenn Sie sich absolut gesund fühlen und in den letzten 14 Tagen keinen Kontakt zu einem Erkrankten gehabt haben!</description>
+    </item>
     
     <item>
       <title>Willkommen!</title>
@@ -29,18 +41,6 @@
       <description>Aus aktuellem Anlass aufgrund von Covid 19 fragen sich viele Menschen wie man sein Immunsystem stärken kann.
 Ein wichtiger Punkt ist natürlich ein gesunder Lebensstil. Darunter verstehe ich
  regelmäßige Bewegung an der frischen Luft (nicht in einem zu intensiven Bereich bzw. wenn dann danach ausreichende Regenerationspausen) erholsamer und ausreichend Schlaf, Stress so gut es geht meiden bzw. falls nicht möglich mit Entspannungstechniken gegensteuern eine gesunde Ernährung (möglichst saisonal und regional, Verzicht auf industriell vorverarbeitete Lebensmittel).</description>
-    </item>
-    
-    <item>
-      <title>Aktuelles aufgrund von Covid-19</title>
-      <link>https://markuskienbacher.at/blog/aktuelleinfoscovid/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://markuskienbacher.at/blog/aktuelleinfoscovid/</guid>
-      <description>Liebe/r PatientIn!
-Ich versuche mein Bestes und halte mich an alle erhältlichen Empfehlungen für den Patientenumgang. Trotzdem muss Ihnen auch klar sein, dass es keine 100 % Sicherheit im Rahmen von Covid 19 gibt.
-Die Therapie wird so ablaufen, dass ich eine spezielle Maske trage und wenn ich Sie manuell behandle eine Schürze und gegebenfalls Handschuhe.
-Wichtig: Bitte kommen Sie nur zur Therapie, wenn Sie sich absolut gesund fühlen und in den letzten 14 Tagen keinen Kontakt zu einem Erkrankten gehabt haben!</description>
     </item>
     
   </channel>
