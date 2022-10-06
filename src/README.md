@@ -1,11 +1,13 @@
+# website anleitung
 
+## website ändern
 
+code öffnen
 immer bei oeffnen code !!!
 
 kreissymbol anklicken damit es synchronisiert ist falls josy was geändert hat
 
-
-# config:
+### config der ganzen seite (zb menü)
 
 nur den src aendern!!
 config.toml
@@ -13,29 +15,27 @@ config.toml
 die "seiten:
 im "content" = der Inhalt
 
+## zum ausprobieren von änderungen ohne dass es auf website ist
 
-zum ausprobieren von änderungen ohne dass es auf website ist
-
-# markuskienbacher
-
-# im terminal: terminal starten von desktop leiste unten
+im terminal: terminal starten von desktop leiste unten
 in das src verzeichnis wechseln
-```
+
+```sh
 cd src
 hugo server
 ```
 
-
 browser öffnen
 http://localhost:1313
 
-# zum deploy dann
-```
+
+## zum onlineschalte auf der website
+
+```sh
 
 cd ~/Dokumente/website2020/markuskienbacher.github.io/src
 
 hugo -Fv
-
 das ist der website generator
 ```
 
@@ -56,17 +56,16 @@ jetzt müsste es auf website sein
 
 
 
-# git einrichten neuer arbeitsplatz /neuer PC
+## git einrichten neuer arbeitsplatz /neuer PC
 
 ```
 git clone https://github.com/markuskienbacher/markuskienbacher.github.io.git --recurse-submodules
+git config user.name "NAME"
 ```
-für bilder
 
+## für bilder
 
-
-bilder kopieren
-
-in src static images 
-open containing folder
-reinkopieren
+* bilder kopieren
+* in src static images
+* open containing folder
+* reinkopieren
