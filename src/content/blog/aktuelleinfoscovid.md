@@ -2,6 +2,7 @@
 title = "Aktuelles aufgrund von Covid-19"
 date = "2020-09-20"
 draft = true
+
 +++
 
 Liebe/r PatientIn!
