@@ -1,123 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://markuskienbacher.at/blog/aktuelleinfoscovid/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://markuskienbacher.at/blog/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markuskienbacher.at/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://markuskienbacher.at/blog/startseite/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/blog/immunsystemstaerken/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://markuskienbacher.at/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/osteopathie/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/vorlage/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/vorlage/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/agbs/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/betriebliche-gesundheitsvorsorge/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/datenschutzerklaerung/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/impressum/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/infoszurtherapie/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/interview/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/lebenslauf/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/osteopathiemeinesicht/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/physiotherapie/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/skoliosetherapie/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/therapeutisches-klettern/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/trainingsberatung/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://markuskienbacher.at/vortraegeworkshops/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/ueber-mich/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://markuskienbacher.at/vortraegeworkshops/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://markuskienbacher.at/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://markuskienbacher.at/contact/</loc>
   </url>
-  
 </urlset>
