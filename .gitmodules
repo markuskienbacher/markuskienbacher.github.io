@@ -1,3 +1,6 @@
 [submodule "src/themes/hugo-future-imperfect-slim"]
 	path = src/themes/hugo-future-imperfect-slim
 	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "src/themes/bootstrap-bp-hugo-theme"]
+	path = src/themes/bootstrap-bp-hugo-theme
+	url = https://github.com/spech66/bootstrap-bp-hugo-theme.git
