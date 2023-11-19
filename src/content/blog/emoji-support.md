@@ -5,7 +5,6 @@ date = "2019-03-05"
 description = "Guide to emoji usage in Hugo"
 tags = ["emoji"]
 categories = [""]
-images  = ["img/2014/04/pic01.jpg"]
 draft = true
 
 +++

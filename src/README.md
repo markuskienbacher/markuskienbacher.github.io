@@ -59,8 +59,21 @@ jetzt müsste es auf website sein
 ## git einrichten neuer arbeitsplatz /neuer PC
 
 ```
+cd ~
+md repos
+cd repos
+
+
 git clone https://github.com/markuskienbacher/markuskienbacher.github.io.git --recurse-submodules
 git config user.name "NAME"
+git config user.email "email"
+
+oder:
+git clone --recursive https://github.com/markuskienbacher/markuskienbacher.github.io.git
+git submodule update --init --recursive
+git submodule update --recursive --remote
+
+
 ```
 
 ## für bilder

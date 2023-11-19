@@ -3,7 +3,9 @@ author = "Markus"
 title = "Osteopathie"
 date = "2019-03-11"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-images  = ["img/2014/04/pic02.jpg"]
+[[images]]
+    src =  "img/2014/04/pic02.jpg"
+    alt = 'pic02'
 
 +++
 

@@ -3,6 +3,7 @@ languageCode = "de-de"
 
 title                   = "Markus Kienbacher"
 theme                   = "hugo-future-imperfect-slim"
+# theme                   = "bootstrap-bp-hugo-theme"
 preserveTaxonomyNames   = true
 paginate                = 3
 disqusShortname         = ""
@@ -235,7 +236,8 @@ unsafe= true
   #quora                 = ""
   #youtube               = ""
   #vimeo                 = ""
-  whatsapp              = "00436504536498" # WhatsApp Number
+  whatsapp              = "+436504536498" # WhatsApp Number
+  signal              = "+436504536498" # signal Number
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
@@ -245,7 +247,7 @@ unsafe= true
   #skype                 = ""
   #snapchat              = ""
   #pinterest             = ""
-  telegram              = "00436504536498"
+  #telegram              = "00436504536498"
   #vine                  = ""
   #googlescholar         = ""
   #orcid                 = ""
