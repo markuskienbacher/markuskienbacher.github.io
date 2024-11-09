@@ -33,4 +33,7 @@ weiters biete ich auch noch [therapeutisches Klettern](/therapeutisches-klettern
  
  Informationen zum [Therapieablauf](/infoszurtherapie)
 
+
+* Informationen zum [Therapeutisches Yoga](/therapeutischesyoga)
+
 Für Terminvereinbarungen oder generellen Fragen bezüglich Physiotherapie kontaktieren Sie mich am besten unter 0650/4536498 oder markus.kienbacher@gmx.at

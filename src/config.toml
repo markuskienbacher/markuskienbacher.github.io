@@ -129,7 +129,7 @@ unsafe= true
   [[menu.main]]
     name              = "Home"
     identifier        = "home"
-    url               = "/"
+    url               = "/start/"
     pre               = "<i class='fa fa-home'></i>"
     weight            = 1
    
@@ -167,19 +167,26 @@ unsafe= true
     url               = "/betriebliche gesundheitsvorsorge/"
     pre               = "<i class='far '></i>"
     weight            = 6
-     [[menu.main]]
+  [[menu.main]]
     name              = "Trainingsberatung"
     identifier        = "trainingsberatung"
     url               = "/trainingsberatung/"
     pre               = "<i class='far '></i>"
     weight            = 7
 
+  [[menu.main]]
+    name              = "therapeutisches Yoga"
+    identifier        = "therapeutischesyoga"
+    url               = "/therapeutischesyoga/"
+    pre               = "<i class='far '></i>"
+    weight            = 8
+
  [[menu.main]]
     name              = "Kontakt"
     identifier        = "about"
     url               = "/about/"
     pre               = "<i class='far '></i>"
-    weight            = 8
+    weight            = 9
     
     
 #  [[menu.main]]
