@@ -27,7 +27,7 @@ featured = "/img/portraitgross.jpg"
 # resources:
 #  src:  /images/blog/2019/water.jpg
 #  title: "The image I want"
-#
+# #
 +++
 <img src="/img/portraitgross.jpg" >
 
