@@ -6,6 +6,8 @@ description = "Willkommen auf meiner Website"
 
 aliases = ['/startseite', '/start']
 
+featured = "/img/portraitgross.jpg"
+
 # aliases = / /blog/startseite
 
 [[images]]
