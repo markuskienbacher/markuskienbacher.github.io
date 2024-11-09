@@ -1,0 +1,2 @@
+hugo -Fv
+pause

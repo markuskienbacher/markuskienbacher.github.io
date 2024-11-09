@@ -73,6 +73,7 @@ git clone --recursive https://github.com/markuskienbacher/markuskienbacher.githu
 git submodule update --init --recursive
 git submodule update --recursive --remote
 
+ choco install hugo-extended --version=0.101.0 -y
 
 ```
 
