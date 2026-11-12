@@ -1,6 +1,6 @@
 +++
 title = "Therapeutisches Yoga"
-date = "2014-04-09"
+date = "2026-11-11"
 +++
 
 <img src="/img/vortrargeundworkshops.webp" >
