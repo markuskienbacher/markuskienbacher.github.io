@@ -15,4 +15,4 @@ Großteil der Kosten wird nach ärztlicher Verordnung von der Krankenkasse über
 
 Für Terminvereinbarungen oder generellen Fragen dazu kontaktieren Sie mich am besten unter 0650/4536498 oder markus.kienbacher@gmx.at
 
-<img src="/img/infoszurtherapie1.jpg" >
+
