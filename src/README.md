@@ -33,7 +33,7 @@ http://localhost:1313
 
 ```sh
 
-cd ~/Dokumente/website2020/markuskienbacher.github.io/src
+cd "C:/Users/kieni/OneDrive - Schule für Sozialbetreuungsberufe/website2020/markuskienbacher.github.io/src"
 
 hugo -Fv
 das ist der website generator
@@ -45,6 +45,8 @@ wieder vs code aufrufen
 
 source control (baum klicken) 
 änderungen benennen
+
+cursor auf changes -dann auf plus (safe all changes)
 
 checkbox (hackerl klicken) bei markuskienbacher- 
 save all and comitt bestätigen
