@@ -19,6 +19,8 @@ config.toml (wenn ich was grundlegendes an der Menüführung ändern will)
 
 falls terminal nicht offen oben auf reiter terminal
 
+wenn im terminal ein prozess läuft diesen mit strg c beenden
+
 
 in das src verzeichnis wechseln (check ob nicht bereits dort)
 
@@ -83,7 +85,10 @@ git submodule update --recursive --remote
 
 ## für bilder
 
-* bilder kopieren
+* bilder kopieren:
 * in src static images
 * open containing folder
-* reinkopieren
+* 
+
+dann md datei auf - vorhandenen bild pfad kopieren
+und dann nur namen der gewünschten bilddatei reinschreiben
