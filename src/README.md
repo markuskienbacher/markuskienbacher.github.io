@@ -5,22 +5,24 @@
 code öffnen
 immer bei oeffnen code !!!
 
-kreissymbol anklicken damit es synchronisiert ist falls josy was geändert hat
+kreissymbol anklicken ganz unten links neben master damit es synchronisiert ist falls josy/valentino was geändert hat
 
 ### config der ganzen seite (zb menü)
 
 nur den src aendern!!
-config.toml
+mit den md dateien arbeiten die im ordner content sind
+config.toml (wenn ich was grundlegendes an der Menüführung ändern will)
 
-die "seiten:
-im "content" = der Inhalt
+
 
 ## zum ausprobieren von änderungen ohne dass es auf website ist
 
-im terminal: terminal starten von desktop leiste unten
-in das src verzeichnis wechseln
+falls terminal nicht offen oben auf reiter terminal
 
-```sh
+
+in das src verzeichnis wechseln (check ob nicht bereits dort)
+
+```
 cd src
 hugo server
 ```
@@ -31,13 +33,14 @@ http://localhost:1313
 
 ## zum onlineschalte auf der website
 
-```sh
+```
 
-cd "C:/Users/kieni/OneDrive - Schule für Sozialbetreuungsberufe/website2020/markuskienbacher.github.io/src"
+cd "C:/Users/kieni/OneDrive - Schule für Sozialbetreuungsberufe/website2020/markuskienbacher.github.io/src" (falls noch nicht drinnen)
 
 hugo -Fv
-das ist der website generator
+
 ```
+(hugo -Fv: ist der website generator)
 
 damit es auf website ist
 
@@ -46,13 +49,12 @@ wieder vs code aufrufen
 source control (baum klicken) 
 änderungen benennen
 
-cursor auf changes -dann auf plus (safe all changes)
 
 checkbox (hackerl klicken) bei markuskienbacher- 
 save all and comitt bestätigen
 änderungen abwarten 
 
-und dann links unten neben master auf Kreissymbol
+dann "sync changes" klicken 
 
 jetzt müsste es auf website sein
 
