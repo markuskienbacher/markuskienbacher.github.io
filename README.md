@@ -17,6 +17,8 @@ hugo -Fv
 
 dann source control (Baumzeichen)
 Name für Änderung oben links tippen und dann commit
+dann safe all and commit changes auswählen
+dann sync changes
 
 
 # git commit

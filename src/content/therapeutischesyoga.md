@@ -5,11 +5,13 @@ date = "2026-11-11"
 
 
 
-Therapeutisches Yoga als Gruppenphysiotherapie in der Kleingruppe zu 5 Personen
+Therapeutisches Yoga als **Gruppenphysiotherapie** in der **Kleingruppe** zu 5 Personen
 
-Yoga und ergänzende Übungen für jedermann/jedefrau jeglichen Alters- keine Vorkenntnisse erforderlich
+Yoga und ergänzende Übungen für **jedermann/jedefrau jeglichen Alters**
 
-jeweils Donnerstags um 18:45 in der Bewusstseinsquelle
+**keine Vorkenntnisse erforderlich**
+
+**jeweils Donnerstags um 18:45** in der Bewusstseinsquelle
 
 individuelle Betreuung in der Kleingruppe 
 

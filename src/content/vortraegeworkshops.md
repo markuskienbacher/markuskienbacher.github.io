@@ -8,7 +8,7 @@ date = "2026-04-09"
 
 Seit 2010 bin ich in der Erwachsenenbildung als Referent an verschiedensten Institutionen. Auch während meiner Studienzeit habe ich schon diverse Sportkurse gehalten (seit 2006). 
 
-Die Themen meiner Referententätigkeit sind breit gestreut in 
+Die **Themen** meiner Referententätigkeit sind breit gestreut in 
 * der Massageausbildung
 * der Physiotherapieausbildung
 * der Pflegeassistenzausbildung 
@@ -16,7 +16,7 @@ Die Themen meiner Referententätigkeit sind breit gestreut in
 * der Bacc. Ausbildung Pflege
 * der Ausbildung für Instruktoren in verschiedenen Sportarten.
 
-Ich habe schon unter anderem Vorträge und Workshops zum Thema 
+Ich habe schon unter anderem **Vorträge und Workshops** zum Thema 
 * "gesunder Rücken" (Arbeitsgemeinschaft für Sport und Körperkultur in Österreich)
 * "das Kreuz mit dem Kreuz -Heben und Tragen ohne Schaden" (Universität Innsbruck)
 * "Vorsorge Aktiv" (Land Niederösterreich) 

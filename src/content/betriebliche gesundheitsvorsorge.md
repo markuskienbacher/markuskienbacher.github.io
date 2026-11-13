@@ -2,8 +2,8 @@
 title = "Betriebliche Gesundheitsvorsorge"
 date = "2026-04-09"
 +++
-Seit 2016 arbeite ich bereits mit diversen Firmen im Rahmen der betrieblichen Gesundheitsvorsorge.
-Unter anderem in Workshops und Vorträge zu Themen wie 
+Seit 2016 arbeite ich bereits mit diversen Firmen im Rahmen der **betrieblichen Gesundheitsvorsorge**.
+Unter anderem in **Workshops und Vorträge zu Themen** wie 
 * "Ergonomie am Arbeitsplatz" 
 * "Ergonomie am Bildschirmarbeitsplatz"
 * "Ausgleichsgymnastik"
