@@ -4,7 +4,7 @@ date = "2014-04-09"
 +++
     1. Datenschutz 
         1. Allgemein 
-Wir verarbeiten Ihre Daten ausschließlich auf Grundlage der gesetzlichen Bestimmungen gemäß der DSGVO, dem DSG und dem TKG. Der im Impressum genannte Betreiber der Website ist Verantwortlicher im Sinne des Art 4 Z 7 DSGVO. Da uns der Schutz Ihrer persönlichen Daten ein besonderes Anliegen ist, informieren wir Sie im Folgenden über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
+Ich verarbeite Ihre Daten ausschließlich auf Grundlage der gesetzlichen Bestimmungen gemäß der DSGVO, dem DSG und dem TKG. Der im Impressum genannte Betreiber der Website ist Verantwortlicher im Sinne des Art 4 Z 7 DSGVO. Da uns der Schutz Ihrer persönlichen Daten ein besonderes Anliegen ist, informieren wir Sie im Folgenden über die wichtigsten Aspekte der Datenverarbeitung im Rahmen meiner Website.
 
             1. Zweck der Verarbeitung 
 Die Daten werden zum Zwecke des Betriebs einer informellen und repräsentativen gewerblichen Website verarbeitet und gespeichert.

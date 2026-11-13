@@ -1,6 +1,6 @@
 +++
 title = "Allgemeine Geschäftsbedingungen"
-date = "2014-04-09"
+date = "2026-04-09"
 +++
 Nachfolgend finden Sie meine AGBs, welche einen möglichst erfolgreichen und reibungslosen Ablauf der Therapie garantieren sollen. 
 

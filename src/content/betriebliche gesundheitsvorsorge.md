@@ -9,6 +9,7 @@ Unter anderem in Workshops und Vorträge zu Themen wie
 * "Ausgleichsgymnastik"
 * "richtiges Sitzen im Firmenauto"
 * "Heben und PatientInnenhandling für SanitäterInnen"
+* "Ergonomie für Pflegekräfte"
 * "Einzel- Arbeitsplatzanalysen"  in diversen Unternehmen.
 
 Für diesen Bereich kann ich auch auf mein Know- How aus meiner  langjährige Unterrichtstätigkeit (seit 2010) an diversen Bildungseinrichtungen [siehe dazu](/vortraegeworkshops) zurückgreifen.
