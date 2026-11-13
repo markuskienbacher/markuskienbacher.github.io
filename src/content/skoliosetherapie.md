@@ -17,4 +17,4 @@ Wichtig gerade bei Kindern ist es, dass, sobald eine Skoliose erkannt wird, dies
 
 Zu diesen aktiven Übungen bietet sich meiner Erfahrung nach auch gut die **Kombination mit Osteopathie** an, um die durch die Skoliose entstandenen Asymetrien im Körpergewebe auszugleichen.
 
-noch mehr Infos dazu finden Sie auf www.skoliose-therapie.tirol (in Zusammenarbeit mit meinen geschätzten KollegInnen Astrid- Marie und Isabella)
+noch mehr Infos dazu finden Sie auf www.skoliose-therapie.tirol (in Zusammenarbeit mit meinen geschätzten Kolleginnen Astrid- Marie und Isabella)

@@ -2,10 +2,10 @@
 title = "Therapeutisches Klettern"
 date = "2026-04-09"
 +++
-Therapeutisches Klettern biete ich in der Boulderhalle der Naturfreunde in Innsbruck im Rapoldipark an.
-Während der Therapie haben wir dort einen eigenen Bereich nur für uns.
+Therapeutisches Klettern biete ich in der **Boulderhalle der Naturfreunde in Innsbruck im Rapoldipark** an.
+Während der Therapie haben wir dort einen **eigenen Bereich** nur für uns.
 
-Therapeutisches Klettern ist eine Möglichkeit für ein großes Spektrum an Beschwerden. Anhand der Kletterwand und der Griffe kann man einen neuen Aspekt in die Rehabilitation bzw. das Training hineinbekommen.
+Therapeutisches Klettern ist eine Möglichkeit für ein **großes Spektrum an Beschwerden**. Anhand der Kletterwand und der Griffe kann man einen neuen Aspekt in die Rehabilitation bzw. das Training hineinbekommen.
 
 Gut bewährt hat sich eine Kombination von therapeutisches Klettern mund manueller Therapie in der Praxis. 
 
