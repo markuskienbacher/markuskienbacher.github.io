@@ -8,7 +8,7 @@ date = "2026-04-09"
 <img src="/img/infoszurtherapie2.webp" >
 
 
-Ich freue mich Sie in meiner Praxis begrüßen zu dürfen!
+**Ich freue mich Sie in meiner Praxis begrüßen zu dürfen!**
 
 Bitte kommen Sie **rechtzeitig vor Therapiebeginn** in die Praxis. Die Therapie startet pünktlich.
 
