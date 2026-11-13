@@ -15,6 +15,10 @@ http://localhost:1313
 cd src
 hugo -Fv
 
+dann source control (Baumzeichen)
+Name für Änderung oben links tippen und dann commit
+
+
 # git commit
 
 

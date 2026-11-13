@@ -1,6 +1,6 @@
 +++
 title = "meine Sicht zur Osteopathie"
-date = "2014-04-09"
+date = "2026-04-09"
 +++
 Mir fällt oft auf, dass sich viele Menschen unter Osteopathie gar nicht wirklich etwas vorstellen können oder ein falsches Bild davon haben. Mit diesem Beitrag versuche ich das zu ändern.
 

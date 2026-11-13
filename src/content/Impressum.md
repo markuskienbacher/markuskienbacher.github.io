@@ -1,6 +1,6 @@
 +++
 title = "Impressum"
-date = "2014-04-09"
+date = "2026-04-09"
 +++
 Impressum
 Betreiber der Website

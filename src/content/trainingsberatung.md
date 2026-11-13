@@ -1,6 +1,6 @@
 +++
 title = "Training"
-date = "2014-04-09"
+date = "2026-04-09"
 +++
 Einerseits habe ich  durch mein Studium der Sportwissenschaften und meine langjährige Erfahrung als Lehrer für diverse Sportarten (Klettern, Kajak, Schi, Fitness und Nordic Walking) einen breit gefächerten Einblick in die Trainingswissenschaft.
 

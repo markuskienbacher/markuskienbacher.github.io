@@ -1,10 +1,10 @@
 +++
 title = "Allgemeine Geschäftsbedingungen"
-date = "2026-04-09"
+date = "2026-11-11"
 +++
 Nachfolgend finden Sie meine AGBs, welche einen möglichst erfolgreichen und reibungslosen Ablauf der Therapie garantieren sollen. 
 
-1. Als Wahltherapeut habe ich keinen direkten Vertrag mit den Krankenkassen. Der Therapiebetrag ist somit am Ende einer Behandlungsserie per Rechnung bzw. auf Wunsch bar zu bezahlen. Je nach Krankenkasse können Sie nach Abschluss der Physiotherapie die Honorarnote bei Ihrer Krankenkasse einreichen und bekommen einen Teilbetrag zurück. Hierfür ist meist eine Vorab- Bewilligung der Verordnung seitens Ihrer Krankenkasse notwendig.
+1. Als Wahltherapeut habe ich keinen direkten Vertrag mit den Krankenkassen. Der Therapiebetrag ist somit am Ende einer Behandlungsserie per Rechnung bzw. auf Wunsch bar zu bezahlen. Je nach Krankenkasse können Sie nach Abschluss der Physiotherapie die Honorarnote bei Ihrer Krankenkasse einreichen und bekommen einen Teilbetrag (je nach Kasse etwas mehr als die Hälfte) zurück. Hierfür ist meist eine ärtzliche Verordnung seitens Ihrer Krankenkasse notwendig.
 Eine etwaige Zusatzversicherung übernimmt meist den Rest bzw. auch oft die osteopathische Behandlung. Erkundigen Sie sich bitte dafür vorab genauer bei Ihrer Versicherung.
 
 2. Eine fachgerechte Behandlung erfordert ein möglichst umfassendes Wissen über Ihren Gesundheitszustand/den Gesundheitszustand Ihres Kindes. 

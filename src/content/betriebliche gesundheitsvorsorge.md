@@ -1,6 +1,6 @@
 +++
 title = "Betriebliche Gesundheitsvorsorge"
-date = "2014-04-09"
+date = "2026-04-09"
 +++
 Seit 2016 arbeite ich bereits mit diversen Firmen im Rahmen der betrieblichen Gesundheitsvorsorge.
 Unter anderem in Workshops und Vorträge zu Themen wie 

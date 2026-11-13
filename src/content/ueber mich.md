@@ -1,6 +1,6 @@
 +++
 title = "Über mich"
-date = "2014-04-09"
+date = "2026-04-09"
 +++
 Da ich selbst sehr sportlich bin und mich der Background fürs Training immer interessiert hat, begann ich mit dem Sportstudium.
 

@@ -1,6 +1,6 @@
 +++
 title = "Vorträge und Workshops"
-date = "2014-04-09"
+date = "2026-04-09"
 +++
 
 <img src="/img/vortrargeundworkshops.webp" >

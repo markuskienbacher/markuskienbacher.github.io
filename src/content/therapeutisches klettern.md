@@ -1,6 +1,6 @@
 +++
 title = "Therapeutisches Klettern"
-date = "2014-04-09"
+date = "2026-04-09"
 +++
 Therapeutisches Klettern biete ich in der Boulderhalle der Naturfreunde in Innsbruck im Rapoldipark an.
 Während der Therapie haben wir dort einen eigenen Bereich nur für uns.
