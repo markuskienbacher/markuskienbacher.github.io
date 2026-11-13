@@ -8,8 +8,9 @@ date = "2026-04-09"
 
 Seit 2010 bin ich in der Erwachsenenbildung als Referent an verschiedensten Institutionen. Auch während meiner Studienzeit habe ich schon diverse Sportkurse gehalten (seit 2006). 
 
-Die **Themen** meiner Referententätigkeit sind breit gestreut in 
+Die Themen meiner **Referententätigkeit** sind breit gestreut in 
 * der Massageausbildung
+* dem Sportstudium
 * der Physiotherapieausbildung
 * der Pflegeassistenzausbildung 
 * der Behindertenassistenzausbildung

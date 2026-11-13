@@ -21,7 +21,7 @@ Physiotherapie setzt sich für mich aus 3 Säulen zusammen:
 
 
 
-Beschwerden bei denen Physiotherapie helfen kann sind beispielsweise
+**Beschwerden** bei denen Physiotherapie helfen kann sind beispielsweise
 
 * Schmerzen am Bewegungsapparat
 
